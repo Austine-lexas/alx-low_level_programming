@@ -1,1 +1,1 @@
-This is the project for pointers arrays and strings
+This is the project for pointers arrays and strings for ALX.
